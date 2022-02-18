@@ -1,5 +1,6 @@
 https://nados.io/question/print-increasing-decreasing?zen=true
 
+
 ```
     public static void main(String[] args) throws Exception {
         // write your code here
@@ -22,6 +23,9 @@ https://nados.io/question/print-increasing-decreasing?zen=true
         }
         
     }
-```    
-    ![image](https://user-images.githubusercontent.com/53649320/154636372-132a9ecf-abb3-4203-b041-f88ae4c8adec.png)
+```   
+
+![image](https://user-images.githubusercontent.com/53649320/154636482-5991e904-6efc-4cbc-b740-0cfaa8410869.png)
+
+
 
